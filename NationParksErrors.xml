@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 
-<NationalPark xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="NationalParks.xsd">
+<NationalPark xmlns="https://4ndyle.github.io/CSE-445-NationalParksXML" 
+               xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+               xsi:schemaLocation="https://4ndyle.github.io/CSE-445-NationalParksXML NationalParks.xsd">
 
 	<!-- Grand Canyon Nationl Park -->
 	<NationalPark Rating="4.9">
