@@ -1,0 +1,506 @@
+{
+  "results": [
+    {
+      "fsq_place_id": "4d221947e56f6ea8a191821d",
+      "latitude": 40.20345366547722,
+      "longitude": -76.21442411774409,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2011-01-03",
+      "date_refreshed": "2026-04-03",
+      "distance": 4850,
+      "email": "s.dennis@sharpshopper.net",
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710102021046"
+      },
+      "link": "/places/4d221947e56f6ea8a191821d",
+      "location": {
+        "address": "1041 Sharp Ave",
+        "locality": "Ephrata",
+        "region": "PA",
+        "postcode": "17522",
+        "country": "US",
+        "formatted_address": "1041 Sharp Ave, Ephrata, PA 17522"
+      },
+      "name": "Sharp Shopper Grocery Outlet",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4d221947e56f6ea8a191821d",
+      "related_places": {},
+      "social_media": {
+        "facebook_id": "169072896466272"
+      },
+      "store_id": "407684",
+      "tel": "(717) 738-4948",
+      "website": "http://www.sharpshopper.net/index.html"
+    },
+    {
+      "fsq_place_id": "4b449525f964a52025f725e3",
+      "latitude": 40.08418824359533,
+      "longitude": -76.214849483433,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2010-01-06",
+      "date_refreshed": "2026-04-02",
+      "distance": 8597,
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710131011008"
+      },
+      "link": "/places/4b449525f964a52025f725e3",
+      "location": {
+        "address": "340 W Main St",
+        "locality": "Leola",
+        "region": "PA",
+        "postcode": "17540",
+        "country": "US",
+        "formatted_address": "340 W Main St, Leola, PA 17540"
+      },
+      "name": "Sharp Shopper Grocery Outlet",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4b449525f964a52025f725e3",
+      "related_places": {},
+      "social_media": {
+        "facebook_id": "169072896466272"
+      },
+      "tel": "(717) 656-2156",
+      "website": "http://www.sharpshopper.net/index.html"
+    },
+    {
+      "fsq_place_id": "4baa851df964a52004713ae3",
+      "latitude": 40.15733784030324,
+      "longitude": -76.20279262174301,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2010-03-24",
+      "date_refreshed": "2026-04-02",
+      "distance": 406,
+      "email": "akronmanager@weisersmarket.com",
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710124023008"
+      },
+      "link": "/places/4baa851df964a52004713ae3",
+      "location": {
+        "address": "805 Main St",
+        "locality": "Akron",
+        "region": "PA",
+        "postcode": "17501",
+        "country": "US",
+        "formatted_address": "805 Main St, Akron, PA 17501"
+      },
+      "name": "Weiser's Market",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4baa851df964a52004713ae3",
+      "related_places": {},
+      "social_media": {
+        "twitter": ""
+      },
+      "tel": "(717) 859-2765",
+      "website": "http://weisersmarket.com"
+    },
+    {
+      "fsq_place_id": "4b426673f964a52027d325e3",
+      "latitude": 40.127591492265786,
+      "longitude": -76.30702531562402,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "fsq_category_id": "52f2ab2ebcbc57f1066b8b46",
+          "name": "Supermarket",
+          "short_name": "Supermarket",
+          "plural_name": "Supermarkets",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2010-01-04",
+      "date_refreshed": "2026-03-29",
+      "distance": 9682,
+      "email": "comments@skh.com",
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710121072031"
+      },
+      "link": "/places/4b426673f964a52027d325e3",
+      "location": {
+        "address": "1050 Lititz Pike",
+        "locality": "Lititz",
+        "region": "PA",
+        "postcode": "17543",
+        "country": "US",
+        "formatted_address": "1050 Lititz Pike, Lititz, PA 17543"
+      },
+      "name": "Stauffers of Kissel Hill, Lititz",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4b426673f964a52027d325e3",
+      "related_places": {},
+      "social_media": {
+        "twitter": ""
+      },
+      "tel": "(717) 627-7654",
+      "website": "https://www.skh.com"
+    },
+    {
+      "fsq_place_id": "609d59098d566e00e0d7d633",
+      "latitude": 40.067188575219625,
+      "longitude": -76.31958406838201,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "fsq_chain_id": "556f4482bd6a007c7738c7b8",
+          "name": "Weis Markets"
+        }
+      ],
+      "date_created": "2021-05-13",
+      "date_refreshed": "2025-10-16",
+      "distance": 14450,
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710118051002"
+      },
+      "link": "/places/609d59098d566e00e0d7d633",
+      "location": {
+        "address": "1700 Fruitville Pike",
+        "locality": "Lancaster",
+        "region": "PA",
+        "postcode": "17601",
+        "country": "US",
+        "formatted_address": "1700 Fruitville Pike, Lancaster, PA 17601"
+      },
+      "name": "Weis Markets",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/609d59098d566e00e0d7d633",
+      "related_places": {},
+      "social_media": {
+        "facebook_id": "960439517378090",
+        "twitter": ""
+      },
+      "store_id": "17",
+      "tel": "(717) 397-8127",
+      "website": "https://www.weismarkets.com/stores#/4288"
+    },
+    {
+      "fsq_place_id": "4b648f2cf964a520a5bd2ae3",
+      "latitude": 40.166847361524745,
+      "longitude": -76.28962300253646,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2010-01-30",
+      "date_refreshed": "2026-03-28",
+      "distance": 7495,
+      "email": "ghfdiscount@windstream.net",
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710121051020"
+      },
+      "link": "/places/4b648f2cf964a520a5bd2ae3",
+      "location": {
+        "address": "615 E Newport Rd",
+        "locality": "Lititz",
+        "region": "PA",
+        "postcode": "17543",
+        "country": "US",
+        "formatted_address": "615 E Newport Rd, Lititz, PA 17543"
+      },
+      "name": "Green Hills Farm Grocer",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4b648f2cf964a520a5bd2ae3",
+      "related_places": {},
+      "social_media": {
+        "twitter": ""
+      },
+      "tel": "(717) 627-4090",
+      "website": "https://reallancastercounty.com/local-stores-no-chains/discount-groceries/green-hills-farm-discount-grocer"
+    },
+    {
+      "fsq_place_id": "4c65b022b80abe9a08fbcae5",
+      "latitude": 40.03886316558427,
+      "longitude": -76.14472689257141,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "fsq_category_id": "4bf58dd8d48988d11e951735",
+          "name": "Cheese Store",
+          "short_name": "Cheese Store",
+          "plural_name": "Cheese Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_cheese_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "fsq_category_id": "4bf58dd8d48988d1fa941735",
+          "name": "Farmers Market",
+          "short_name": "Farmers Market",
+          "plural_name": "Farmers Markets",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_farmersmarket_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2010-08-13",
+      "date_refreshed": "2026-02-28",
+      "distance": 14400,
+      "email": "facebook@kauffmansfruitfarm.com",
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710141011049"
+      },
+      "link": "/places/4c65b022b80abe9a08fbcae5",
+      "location": {
+        "address": "3097 Old Philadelphia Pike",
+        "locality": "Bird in Hand",
+        "region": "PA",
+        "postcode": "17505",
+        "country": "US",
+        "formatted_address": "3097 Old Philadelphia Pike (S Harvest Rd), Bird in Hand, PA 17505"
+      },
+      "name": "Kauffman's Fruit Farm & Market",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4c65b022b80abe9a08fbcae5",
+      "related_places": {},
+      "social_media": {
+        "facebook_id": "643506469070455"
+      },
+      "tel": "(717) 768-7112",
+      "website": "http://www.kauffmansfruitfarm.com"
+    },
+    {
+      "fsq_place_id": "5282eeb511d24bd1efc9af8e",
+      "latitude": 40.16655342725132,
+      "longitude": -76.1567994884637,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "fsq_category_id": "52f2ab2ebcbc57f1066b8b46",
+          "name": "Supermarket",
+          "short_name": "Supermarket",
+          "plural_name": "Supermarkets",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "fsq_chain_id": "58f4cf50005ac17d0739cad1",
+          "name": "Giant Food Stores"
+        }
+      ],
+      "date_created": "2013-11-13",
+      "date_refreshed": "2026-04-08",
+      "distance": 3864,
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710124042010"
+      },
+      "link": "/places/5282eeb511d24bd1efc9af8e",
+      "location": {
+        "address": "850 E Main St",
+        "locality": "Ephrata",
+        "region": "PA",
+        "postcode": "17522",
+        "country": "US",
+        "formatted_address": "850 E Main St, Ephrata, PA 17522"
+      },
+      "name": "Giant Food Store",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/5282eeb511d24bd1efc9af8e",
+      "related_places": {},
+      "social_media": {
+        "facebook_id": "1818750555029565",
+        "twitter": "giantfoodstores"
+      },
+      "store_id": "6501",
+      "tel": "(717) 733-6334",
+      "website": "https://stores.giantfoodstores.com/pa/ephrata/850-east-main-st"
+    },
+    {
+      "fsq_place_id": "4bbfa9aeb492d13ac50ea360",
+      "latitude": 40.107025863225225,
+      "longitude": -76.25349035189286,
+      "categories": [
+        {
+          "fsq_category_id": "52f2ab2ebcbc57f1066b8b46",
+          "name": "Supermarket",
+          "short_name": "Supermarket",
+          "plural_name": "Supermarkets",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "fsq_chain_id": "5569f861a7c8896abe7cfed8",
+          "name": "Salvation Army"
+        }
+      ],
+      "date_created": "2010-04-09",
+      "date_refreshed": "2026-04-04",
+      "distance": 7429,
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710119032010"
+      },
+      "link": "/places/4bbfa9aeb492d13ac50ea360",
+      "location": {
+        "address": "2900 Oregon Pike",
+        "locality": "Lititz",
+        "region": "PA",
+        "postcode": "17543",
+        "country": "US",
+        "formatted_address": "2900 Oregon Pike (Jake Landis Rd), Lititz, PA 17543"
+      },
+      "name": "Oregon Dairy",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4bbfa9aeb492d13ac50ea360",
+      "related_places": {},
+      "social_media": {
+        "twitter": ""
+      },
+      "store_id": "591410",
+      "tel": "(717) 656-2856",
+      "website": "http://www.oregondairy.com"
+    },
+    {
+      "fsq_place_id": "4e6b773b483bf2d9e6ab8601",
+      "latitude": 40.04411172838753,
+      "longitude": -76.31107270703829,
+      "categories": [
+        {
+          "fsq_category_id": "4bf58dd8d48988d118951735",
+          "name": "Grocery Store",
+          "short_name": "Grocery Store",
+          "plural_name": "Grocery Stores",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "date_created": "2011-09-10",
+      "date_refreshed": "2025-11-24",
+      "distance": 15964,
+      "email": "info@lemonstreetmarket.com",
+      "extended_location": {
+        "dma": "Harrisburg-Lancaster-Lebanon-York",
+        "census_block_id": "420710004004003"
+      },
+      "link": "/places/4e6b773b483bf2d9e6ab8601",
+      "location": {
+        "address": "241 W Lemon St",
+        "locality": "Lancaster",
+        "region": "PA",
+        "postcode": "17603",
+        "country": "US",
+        "formatted_address": "241 W Lemon St (Mulberry), Lancaster, PA 17603"
+      },
+      "name": "Lemon Street Market",
+      "placemaker_url": "https://foursquare.com/placemakers/review-place/4e6b773b483bf2d9e6ab8601",
+      "related_places": {},
+      "social_media": {
+        "facebook_id": "194653200588475",
+        "twitter": "lemonstmarket"
+      },
+      "tel": "(717) 826-0843",
+      "website": "http://www.lemonstreetmarket.com"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 40.1609,
+          "longitude": -76.2017
+        },
+        "radius": 9424
+      }
+    }
+  }
+}
