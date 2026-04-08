@@ -1,0 +1,162 @@
+[
+  {
+    "latitude": 33.2499885582435,
+    "longitude": -111.8384361270862,
+    "distance": 17676,
+    "location": {
+      "address": "3777 S Arizona Ave",
+      "locality": "Chandler",
+      "region": "AZ",
+      "postcode": "85248",
+      "country": "US",
+      "formatted_address": "3777 S Arizona Ave (at E Ocotillo Rd), Chandler, AZ 85248"
+    },
+    "name": "Target",
+    "tel": "(480) 612-6101",
+    "website": "https://www.target.com/sl/chandler-south/2747"
+  },
+  {
+    "latitude": 33.2804215511514,
+    "longitude": -111.78677604390755,
+    "distance": 17814,
+    "location": {
+      "address": "3831 S Gilbert Rd",
+      "locality": "Gilbert",
+      "region": "AZ",
+      "postcode": "85297",
+      "country": "US",
+      "formatted_address": "3831 S Gilbert Rd, Gilbert, AZ 85297"
+    },
+    "name": "Ross Dress for Less",
+    "tel": "(480) 855-8544",
+    "website": "https://www.rossstores.com"
+  },
+  {
+    "latitude": 33.334180019078183,
+    "longitude": -111.75830805529957,
+    "distance": 16730,
+    "location": {
+      "address": "1475 E Warner Rd",
+      "locality": "Gilbert",
+      "region": "AZ",
+      "postcode": "85296",
+      "country": "US",
+      "formatted_address": "1475 E Warner Rd, Gilbert, AZ 85296"
+    },
+    "name": "Ross Dress for Less",
+    "tel": "(480) 558-4301",
+    "website": "https://www.rossstores.com"
+  },
+  {
+    "latitude": 33.325894934444804,
+    "longitude": -111.68945740448238,
+    "distance": 23043,
+    "location": {
+      "address": "4962 S Power Rd",
+      "locality": "Gilbert",
+      "region": "AZ",
+      "postcode": "85236",
+      "country": "US",
+      "formatted_address": "4962 S Power Rd, Gilbert, AZ 85236"
+    },
+    "name": "Ross Dress for Less",
+    "tel": "(480) 279-4707",
+    "website": "http://www.rossstores.com"
+  },
+  {
+    "latitude": 33.4378336407914,
+    "longitude": -112.23910838882318,
+    "distance": 29592,
+    "location": {
+      "address": "8302 W Buckeye Rd",
+      "locality": "Tolleson",
+      "region": "AZ",
+      "postcode": "85353",
+      "country": "US",
+      "formatted_address": "8302 W Buckeye Rd, Tolleson, AZ 85353"
+    },
+    "name": "QuikTrip",
+    "tel": "(623) 478-0662",
+    "website": "https://locations.quiktrip.com/az/tolleson/8302-w-buckeye-rd"
+  },
+  {
+    "latitude": 33.423597536857741,
+    "longitude": -112.26943731307983,
+    "distance": 32156,
+    "location": {
+      "address": "9830 W Lower Buckeye Rd",
+      "locality": "Tolleson",
+      "region": "AZ",
+      "postcode": "85353",
+      "country": "US",
+      "formatted_address": "9830 W Lower Buckeye Rd, Tolleson, AZ 85353"
+    },
+    "name": "Target",
+    "tel": "(623) 687-2136",
+    "website": "http://www.target.com"
+  },
+  {
+    "latitude": 33.390531182332111,
+    "longitude": -111.68971538543701,
+    "distance": 21821,
+    "location": {
+      "address": "6555 E Southern Ave",
+      "locality": "Mesa",
+      "region": "AZ",
+      "postcode": "85206",
+      "country": "US",
+      "formatted_address": "6555 E Southern Ave (at Superstition Spring Center), Mesa, AZ 85206"
+    },
+    "name": "Zumiez",
+    "tel": "(480) 924-6772",
+    "website": "http://www.zumiez.com"
+  },
+  {
+    "latitude": 33.41164599083595,
+    "longitude": -111.82153396096786,
+    "distance": 9842,
+    "location": {
+      "address": "434-498 E 2nd Ave",
+      "locality": "Mesa",
+      "region": "AZ",
+      "postcode": "85204",
+      "country": "US",
+      "formatted_address": "434-498 E 2nd Ave, Mesa, AZ 85204"
+    },
+    "name": "LDS Distribution Center",
+    "tel": null,
+    "website": null
+  },
+  {
+    "latitude": 33.248339285248889,
+    "longitude": -111.64618408389013,
+    "distance": 30391,
+    "location": {
+      "address": "20231 E Ocotillo Rd",
+      "locality": "Queen Creek",
+      "region": "AZ",
+      "postcode": "85142",
+      "country": "US",
+      "formatted_address": "20231 E Ocotillo Rd, Queen Creek, AZ 85142"
+    },
+    "name": "Russ True Value Hardware",
+    "tel": "(480) 987-9655",
+    "website": "http://www.truevalue.com/russtruevalue"
+  },
+  {
+    "latitude": 33.390002,
+    "longitude": -111.690515,
+    "distance": 21747,
+    "location": {
+      "address": "6525 E Southern Ave",
+      "locality": "Mesa",
+      "region": "AZ",
+      "postcode": "85206",
+      "country": "US",
+      "formatted_address": "6525 E Southern Ave, Mesa, AZ 85206"
+    },
+    "name": "JCPenney",
+    "tel": "(480) 832-0400",
+    "website": "https://www.jcpenney.com/locations/az/mesa/clothing-stores-mesa-az-2419.html"
+  }
+]
